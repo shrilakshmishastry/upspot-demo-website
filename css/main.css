@@ -1,0 +1,14 @@
+.footer{
+  background-color: #FFFFFF;
+}
+.image{
+  background-image:url("../images/image3.jpg");
+  background-repeat: no-repeat;
+  background-size: 800px;
+
+
+}
+.size-image{
+  width:30px;
+  height: 30px;
+}
